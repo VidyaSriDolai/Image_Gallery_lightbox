@@ -17,3 +17,4 @@ A stylish and responsive image gallery web application that allows users to view
 - **CSS** – Custom styling
 - **Bootstrap Grid** – Responsive layout
 - **jQuery** – DOM manipulation and lightbox behavior
+- you can see HERE:https://github.com/VidyaSriDolai/Image_Gallery_lightbox/settings/pages
