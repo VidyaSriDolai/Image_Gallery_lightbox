@@ -18,3 +18,4 @@ A stylish and responsive image gallery web application that allows users to view
 - **Bootstrap Grid** – Responsive layout
 - **jQuery** – DOM manipulation and lightbox behavior
 - you can see HERE:https://github.com/VidyaSriDolai/Image_Gallery_lightbox/settings/pages
+- YOU CAN SEE SCREEN SHOTS HERE:https://github.com/VidyaSriDolai/Image_Gallery_lightbox/issues/1#issue-3128206277
